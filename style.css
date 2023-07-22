@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.test{
+    background-color: #0099ff;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 500px;
+    height: 150px;
+    border-radius: 15px;
+}
+.title{
+    color: #fff;
+    margin: 3px;
+}
+h1{
+    text-shadow: 2px 2px #be2edd;
+}
